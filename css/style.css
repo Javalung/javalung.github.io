@@ -1,0 +1,389 @@
+header {
+	background: url(../img/bg-head.png) no-repeat center center;
+	min-height: 618px;
+	position: relative;
+	background-size: cover;	
+}
+
+.logo {
+display: block;
+padding-top: 36px;
+text-align: center;
+}
+
+.title {
+	color:#ffffff;
+	font-family: Times New Roman, "Regular", sans-serif;
+	font-size:68.2px;
+	text-align: center;
+}
+
+.none {
+	color:#ffffff;
+	font-family: Times New Roman, "Regular", sans-serif;
+	font-size:42.06px;
+	text-align: center;
+	padding-top: 8px;
+}
+.under{
+	color:#ffffff;
+	font-family: Tahoma, "Regular", sans-serif;
+	font-size:25px;
+	text-align: center;
+	padding-top:28px;
+}
+
+.obvodka{
+border: 5px solid #ffffff;
+height:230px;
+width:940px;
+margin: auto;
+margin-top: 58px;
+}
+
+!-----------------first--------------------!
+
+.frist {
+	background: #ffffff;
+	height: 777px;
+	}
+
+.pod{
+text-align: center;
+padding-top: 58px;
+color: #2a2a2a;
+}
+
+.one {
+	font-size: 46.64px;
+	font-family: Tahoma, "Regular", sans-serif;
+		}
+.b {font-size: 32.4px;}
+
+.two {
+		font-size: 29.4px;
+		font-family: Segoe UI, "Regular", sans-serif;
+		padding-top: 40px;
+	}
+
+.znak {
+	text-align: center;
+	padding-top: 26px;
+}
+
+h2 {
+	padding-top: 32px;
+}
+
+.icon {
+	float:left;
+	padding-left: 40px;
+    }
+
+.text {
+	float:right;
+    align:left;
+    font-family: Calibri, "Regular", sans-serif;
+	font-size: 22px;
+	border-bottom: 3px solid silver;
+	padding-bottom: 40px;
+}
+
+.hb{
+	width:860px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 38px;
+	}
+
+.icon_1 {
+	float:left;
+	padding-left: 40px;
+	padding-top: 20px;
+    }
+
+.text_1 {
+	float:right;
+    align:left;
+    font-family: Calibri, "Regular", sans-serif;
+	font-size: 22px;
+	border-bottom: 3px solid silver;
+	padding-bottom: 40px;
+	padding-top: 36px;
+	padding-right: 4px;
+}
+
+.hm {
+	width:860px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+.icon_2 {
+	float:left;
+	padding-left: 40px;
+	padding-top: 35px;
+    }
+
+.text_2 {
+	float:right;
+    align:left;
+    font-family: Calibri, "Regular", sans-serif;
+	font-size: 22px;
+	padding-bottom: 40px;
+	padding-top: 36px;
+	padding-right: 14px;
+}
+
+.hd{
+	width:860px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+:after { 
+2 
+content: ""; 
+3 
+display: table; 
+4 
+clear: both; 
+5 
+}
+.hb:after { 
+content: ""; 
+display: table; 
+clear: both; 
+}
+
+:after { 
+2 
+content: ""; 
+3 
+display: table; 
+4 
+clear: both; 
+5 
+}
+.hm:after { 
+content: ""; 
+display: table; 
+clear: both; 
+}
+
+:after { 
+2 
+content: ""; 
+3 
+display: table; 
+4 
+clear: both; 
+5 
+}
+.hd:after { 
+content: ""; 
+display: table; 
+clear: both; 
+}
+
+
+!---------------second-----------------!
+
+.sec {
+	background: url(../img/will.png) no-repeat center center;
+	min-height: 275px;
+	position: relative;
+	background-size: cover;
+	}
+
+.second {
+	background: url(../img/will.png) no-repeat center center;
+	min-height: 275px;
+	position: relative;
+	background-size: cover;
+	}
+
+.for{
+	text-align: center;
+	font-family: Calibri, "Regular", sans-serif;
+	font-size: 40.64px;
+	color:#fafafa;
+}
+
+.rof{
+	padding-top: 33px;
+	text-align: center;
+	font-family: Leelawadee UI, "Regular", sans-serif;
+	font-size: 30px;
+	color:#fafafa;
+}
+
+
+!----------third------------!
+
+.third {
+	background: #ffffff;
+	height:386px;
+}
+
+.blue {
+	text-align: center;
+	font-family: Calibri, "Regular", sans-serif;
+}
+
+.our {font-size: 49.62px;}
+.nisha {font-size: 39.62px;}
+.tolko {font-size: 39.62px; background: #003f95;
+width:368px; margin: auto; height: 56px; color:white;}
+.kriva{padding-top: 32px;}
+
+.dla{padding-top: 26px; padding-bottom: 22px; font-size: 23px;}
+.blue1{width:670px; background: #003f95;
+margin:auto; color:white; font-size: 23px; margin-bottom: 36px;}
+
+
+!-----------Forth-------------!
+.fort{}
+.forth{
+	min-height: 273px;
+	background: url(../img/forth.png) no-repeat center center;
+	position: relative;
+	background-size: cover;
+}
+
+.how{
+	color:yellow;
+	font-size: 48.64px;
+	font-family: Calibri, "Regular", sans-serif;
+	text-align: center;
+}
+
+.key {
+	color:white;
+	font-size: 26px;
+	font-family: Calibri, "Regular", sans-serif;
+	text-align: center;
+	margin-bottom: 36px;
+}
+
+.bol {
+	width:446px;
+	background: #fafafa;
+	color:black;
+	font-size: 22px;
+	font-family: Calibri, "Regular", sans-serif;
+	text-align: center;
+	margin:auto;
+}
+
+.im{
+	padding-top: 22px;
+	color:white;
+	font-size: 22px;
+	font-family: Calibri, "Regular", sans-serif;
+	text-align: center;
+}
+
+!---------Fifth-------------!
+.fif{}
+
+.fifth{
+	background-color: #ffffff;
+	min-height: 580px;
+}
+
+.kriv{margin-top: 116px;}
+
+.zap{
+	font-size: 36px;
+	font-family: Calibri, "Regular", sans-serif;
+	position: relative;
+	float: right;
+}
+
+.col-sm-5 {text-align: left;  padding-left: 73px;}
+.col-sm-6 {text-align: center;}
+
+.strela{margin-top: 20px; float: right;}
+
+
+.form{
+	text-align: center;
+	margin-top:26px;
+	height: 498px;
+	width: 382px;
+	border:8px solid #2039ad;
+	font-size: 22px;
+	font-family: Calibri, "Regular", sans-serif;
+}
+
+.q {margin-top: 28px; border-radius:10px; border:2px solid #2039ad;}
+.w {margin-top: 18px; border-radius:10px; border:2px solid #2039ad;}
+.e {margin-top: 18px; border-radius:10px; border:2px solid #2039ad;}
+.r {margin-top: 18px; border-radius:10px; border:2px solid #2039ad;}
+.t {margin-top: 18px; border-radius:10px; border:2px solid #2039ad;}
+
+.main_button{
+  margin-top: 18px;
+  width: 315px;
+  height: 65px;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-family: Aria, sans-serif;
+  color: #fdfefe;
+  background: linear-gradient(to top, #dd173c, #e63e3c);
+  border: none;
+  border-radius: 9px;
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(181,9,44,1);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(181,9,44,1);
+  box-shadow: 0px 5px 5px 0px rgba(181,9,44,1);
+}
+.main_button:hover{
+  cursor: pointer;
+  opacity: 0.95;
+}
+.main_button:active{
+  background: linear-gradient(to top, #d1193b, #df3b3c);
+}
+.main_button:active,
+.main_button:focus{
+  outline: none;
+}
+
+.pol {
+	text-align: center;
+	font-size: 15.24px;
+	font-family: Calibri, "Regular", sans-serif;
+	margin-top: 24px;
+}
+
+.six{
+	height: 147px;
+	background: #efefef;
+	text-align: center;
+}
+
+.ostal {
+	font-size: 49.62px;
+	font-family: Calibri, "Regular", sans-serif;
+}
+
+.poz {
+	font-size: 28.62px;
+	font-family: Calibri, "Regular", sans-serif;
+}
+
+footer{
+	height: 117px;
+	background: #2a2a2a;
+	font-family: Calibri, "Regular", sans-serif;
+	font-size: 16px;
+	color: white;
+}
+
+.col-sm-4{text-align: center; margin-top: 29px;}
+.kon{padding-bottom: 12px;}
+
+
+
+
